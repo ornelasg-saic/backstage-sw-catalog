@@ -2,7 +2,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-  name: examples
+  name: system2
 spec:
   owner: guests
 ---
