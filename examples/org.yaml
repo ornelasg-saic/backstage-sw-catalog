@@ -19,6 +19,6 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
-  name: ornelasg-saic
+  name: ornelasg-saicx
 spec:
-  memberOf: [guests]
+  memberOf: [guestsx]
