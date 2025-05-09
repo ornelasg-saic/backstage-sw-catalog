@@ -21,4 +21,4 @@ kind: User
 metadata:
   name: ornelasg-saicx
 spec:
-  memberOf: [guestsx]
+  memberOf: [SAICDevSecOps]
